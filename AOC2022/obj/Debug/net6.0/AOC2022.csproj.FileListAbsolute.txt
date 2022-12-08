@@ -1,0 +1,15 @@
+C:\Users\glaci\source\repos\AOC2022\AOC2022\bin\Debug\net6.0\AOC2022.exe
+C:\Users\glaci\source\repos\AOC2022\AOC2022\bin\Debug\net6.0\AOC2022.deps.json
+C:\Users\glaci\source\repos\AOC2022\AOC2022\bin\Debug\net6.0\AOC2022.runtimeconfig.json
+C:\Users\glaci\source\repos\AOC2022\AOC2022\bin\Debug\net6.0\AOC2022.dll
+C:\Users\glaci\source\repos\AOC2022\AOC2022\bin\Debug\net6.0\AOC2022.pdb
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.csproj.AssemblyReference.cache
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.AssemblyInfoInputs.cache
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.AssemblyInfo.cs
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.csproj.CoreCompileInputs.cache
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.dll
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\refint\AOC2022.dll
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.pdb
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\AOC2022.genruntimeconfig.cache
+C:\Users\glaci\source\repos\AOC2022\AOC2022\obj\Debug\net6.0\ref\AOC2022.dll

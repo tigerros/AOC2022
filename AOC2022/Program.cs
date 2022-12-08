@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using AOC2022.Days;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine(Day7.Instance.Part1(95437, true));
+Console.WriteLine(Day7.Instance.Part2(-1, false));
