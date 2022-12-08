@@ -5,29 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d96af69-0ed9-48e3-b7d5-d88eeabc789f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AOC2022/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AOC2022/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/Day.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/DayResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/Days/Day7.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/Days/Day7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/Days/Day7x.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/ref/AOC2022.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/refint/AOC2022.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AOC2022/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AOC2022/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOC2022/Days/Day8.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOC2022/Days/Day8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AOC2022/Days/Day8x.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AOC2022/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AOC2022/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOC2022/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/bin/Debug/net6.0/AOC2022.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/AOC2022.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/ref/AOC2022.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/ref/AOC2022.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/refint/AOC2022.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AOC2022/obj/Debug/net6.0/refint/AOC2022.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +90,7 @@
       <updated>1670424589240</updated>
       <workItem from="1670424591971" duration="27950000" />
       <workItem from="1670488209988" duration="6524000" />
-      <workItem from="1670509489152" duration="7136000" />
+      <workItem from="1670509489152" duration="19070000" />
     </task>
     <servers />
   </component>
